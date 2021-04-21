@@ -1,0 +1,14 @@
+{
+  "Type": "content",
+  "Name": "Expanded Foods - Efficiency Extensions",
+  "Version": "0.0.1",
+  "NetworkVersion": null,
+  "Description": "New efficient smithing recipes for Expanded Food items",
+  "ModID": "expandedfoods_eff",
+  "authors": ["DoctorVanGogh"],
+
+  "Contributors": ["DoctorVanGogh"],
+  "Dependencies": {
+    "expandedfoods": "1.3.2"
+  }
+}
