@@ -1,16 +1,16 @@
 {
 	ingredient: { type: "item", code: "game:ingot-*", name: "metal", allowedVariants: ["copper", "brass", "tinbronze", "bismuthbronze", "blackbronze", "silver", "gold", "iron", "lead", "tin", "zinc", "bismuth", "chromium", "platinum", "titanium", "molybdochalkos", "meteoriciron", "steel"] },
 	pattern: [[
-		"####_____",
-		"#__####__",
-		"#_______#",
+		"_####____",
+		"_#__####_",
+		"_#______#",
 		"__####__#",
 		"_____####",
 		"####_____",
-		"#_ ####__",
-		"#_______#",
-		"__####__#",
-		"_____####"
+		"#__####__",
+		"#______#_",
+		"_####__#_",
+		"____####_"
 	]],
 	name: "4 Bighooks",
 	output: { type: "item", code: "expandedfoods:bighook-{metal}", stacksize:4  }
